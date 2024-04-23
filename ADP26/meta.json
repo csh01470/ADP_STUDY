@@ -1,0 +1,34 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "online_retail",
+			"source" : "https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthetic",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "silver_price",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/26.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "vote_by_district",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/26.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "3",
+			"dataNm" : "blood_pressure",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/26.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "4",
+			"dataNm" : "physical_check_up",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/26.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

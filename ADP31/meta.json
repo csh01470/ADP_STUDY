@@ -1,0 +1,28 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "obesity_dataset_cleaned_and_data_sinthetic",
+			"source" : "https://www.kaggle.com/datasets/mandysia/obesity-dataset-cleaned-and-data-sinthetic",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "health_examination_for_students",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/31.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "advertising_sales_dataset",
+			"source" : "https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "3",
+			"dataNm" : "contract_status",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/31.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "blood_pressure_estimation",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/30.html",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "bicycle_accident",
+			"source" : "https://taas.koroad.or.kr/api/selectOpenApi.do",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "production_status",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/30.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "3",
+			"dataNm" : "headset_preference",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/30.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

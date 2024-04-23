@@ -1,0 +1,22 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "status_of_vacating_the_apartment",
+			"source" : "https://www.data.go.kr/data/15094266/fileData.do",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "base_ball_game",
+			"source" : "https://www.kaggle.com/datasets/pschale/mlb-pitch-data-20152018",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "bumper damage",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/29.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

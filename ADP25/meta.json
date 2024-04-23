@@ -1,0 +1,34 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "online_retail",
+			"source" : "https://archive.ics.uci.edu/dataset/352/online+retail",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "coffe_price",
+			"source" : "https://raw.githubusercontent.com/Datamanim/datarepo/main/adp/25/problem2.csv",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "leisure_activity",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/25.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "3",
+			"dataNm" : "product_time",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/25.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "4",
+			"dataNm" : "budget_by_policy",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/25.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

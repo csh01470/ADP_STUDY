@@ -1,0 +1,34 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "student_grade_prediction",
+			"source" : "https://www.kaggle.com/datasets/dipam7/student-grade-prediction",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "product_lifecycle",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/28.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "purchase_intention_by_tasting",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/28.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "3",
+			"dataNm" : "grade_per_school",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/28.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "4",
+			"dataNm" : "erbil_heart_disease_dataset",
+			"source" : "https://www.kaggle.com/datasets/hangawqadir/erbil-heart-disease-dataset",
+			"analysisType" : "Statistics" 
+		}
+	]
+}

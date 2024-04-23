@@ -1,0 +1,22 @@
+{ "metaInfo" : 
+	[
+		{
+			"rowIdx" : "0",
+			"dataNm" : "credit_card_fraud",
+			"source" : "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+			"analysisType" : "machineLearning"
+		},
+		{
+			"rowIdx" : "1",
+			"dataNm" : "Biodiversity_per_river",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/27.html",
+			"analysisType" : "Statistics" 
+		},
+		{
+			"rowIdx" : "2",
+			"dataNm" : "subway_user_count",
+			"source" : "https://www.datamanim.com/dataset/ADPpb/00/27.html",
+			"analysisType" : "Statistics" 
+		}
+	]
+}
